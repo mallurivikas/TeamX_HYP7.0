@@ -1,0 +1,14 @@
+# Core Dependencies
+mediapipe==0.10.9
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Visualization & Reporting
+matplotlib==3.8.2
+Pillow==10.1.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional but recommended for better performance
+opencv-contrib-python==4.8.1.78
