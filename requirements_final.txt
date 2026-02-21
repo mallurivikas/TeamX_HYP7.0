@@ -1,0 +1,40 @@
+# Core Flask & Web
+Flask==3.0.0
+Flask-Session==0.8.0
+Werkzeug==3.0.1
+
+# Database
+pymongo==4.6.0
+dnspython==2.4.2
+
+# Machine Learning (Python 3.11 compatible versions)
+scikit-learn==1.6.1
+numpy==1.26.4
+pandas==2.2.3
+joblib==1.4.2
+
+# Computer Vision & Face Detection
+opencv-python==4.10.0.84
+mediapipe==0.10.9
+Pillow==11.0.0
+
+# OCR & Text Processing
+pytesseract==0.3.13
+
+# AI APIs
+google-generativeai==0.8.3
+twilio==9.4.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+
+# Face Feature Dependencies
+matplotlib==3.8.2
+absl-py==2.1.0
+attrs==25.4.0
+protobuf==3.20.3
