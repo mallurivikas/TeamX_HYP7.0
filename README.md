@@ -380,7 +380,7 @@ You'll see the login page. Create an account to get started!
 
 ---
 
-### 💬 **Using WhatsApp Features**
+### **Using WhatsApp Features**
 
 1. **Setup** (Admin only):
    - Configure Twilio credentials in `.env`
